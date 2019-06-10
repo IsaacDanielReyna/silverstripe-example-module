@@ -1,1 +1,1 @@
-alert('This is from script.js');
+alert('This is from vendor/module/client/javascript/script.js');
